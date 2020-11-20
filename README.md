@@ -3,7 +3,7 @@ What are the chances of my flight being delayed? / digging around in US domestic
 
 -> Coming soon! Check back :)
 
-## Data collection
+### Data collection
 
 Notebook can be found here: 
 
@@ -11,7 +11,7 @@ Notebook can be found here:
 
 
 
-## Data exploration
+### Data exploration
 
 Notebook can be found here: 
 
