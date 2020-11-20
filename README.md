@@ -9,3 +9,10 @@ Notebook can be found here:
 
 [![nbviewer](https://img.shields.io/badge/render%20on-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/atmerritt/delay-expectations/blob/main/flights_scrape.ipynb)
 
+
+
+## Data exploration
+
+Notebook can be found here: 
+
+[![nbviewer](https://img.shields.io/badge/render%20on-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/atmerritt/delay-expectations/blob/main/flight_delays_dataexplore.ipynb)
