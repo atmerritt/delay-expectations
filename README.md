@@ -9,7 +9,7 @@ What are the chances of my flight being delayed? / digging around in US domestic
 
 Notebook can be found here: 
 
-[![nbviewer](https://img.shields.io/badge/render%20on-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/atmerritt/delay-expectations/blob/main/flights_scrape.ipynb?flush_cache=true)
+[![nbviewer](https://img.shields.io/badge/render%20on-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/atmerritt/delay-expectations/blob/main/flights_data_scrape.ipynb?flush_cache=true)
 
 
 
@@ -17,7 +17,7 @@ Notebook can be found here:
 
 Notebook can be found here: 
 
-[![nbviewer](https://img.shields.io/badge/render%20on-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/atmerritt/delay-expectations/blob/main/flight_delays_dataexplore.ipynb?flush_cache=true)
+[![nbviewer](https://img.shields.io/badge/render%20on-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/atmerritt/delay-expectations/blob/main/flight_delays_data_explore.ipynb?flush_cache=true)
 
 
 
