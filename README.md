@@ -22,7 +22,9 @@ Notebook can be found here:
 ![alt text](https://github.com/atmerritt/delay-expectations/blob/scribbles/2018_flights_timeofday.png?raw=true)
 
 ### Predicting delay times
--> Coming soon! Check back :)
+Notebook can be found here: 
+
+[![nbviewer](https://img.shields.io/badge/render%20on-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/atmerritt/delay-expectations/blob/scribbles/flights_classifier_extratrees.ipynb?flush_cache=true)
 
 ![alt text](https://github.com/atmerritt/delay-expectations/blob/scribbles/2018_summary.png?raw=true)
 
